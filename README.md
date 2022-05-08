@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shubham24071999@gmail.com](mailto:shubham24071999@gmail.com)
-* 🧠  I'm learning Reactjs
+* 🧠  I'm learning WEB 3
 
 <a href="https://www.twitter.com/0xShubSolanki" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/0xShubSolanki?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
